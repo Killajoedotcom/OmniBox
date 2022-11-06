@@ -2,7 +2,7 @@
 
 You are in the `0.9.9-beta` branch. Changes may be merged in at any time, but all parts have been tested for fit.
 
-If you are looking for a part that is not listed, it may be untested but available in the `0.9.9` branch.
+If you are looking for a part that is not listed, it may be untested but available in the `0.9.9-unstable` branch.
 
 -----
 
@@ -22,5 +22,3 @@ This project focuses on modularity, accessibility to users, and reusability. The
 
 - Follow **[@TheOmniBox](https://twitter.com/TheOmniBox)** on Twitter for updates and discussion.
 - Join in the **[Discussions](https://github.com/jon-harper/OmniBox/discussions)** board here on GitHub.
-
-![banner image](../../raw/main/img/gallery.png)
