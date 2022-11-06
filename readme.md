@@ -1,9 +1,26 @@
-Welcome to the OmniBox repository. This is a modular control case for 3D printing. It is conceptually derived from Steve Burcham's [Stand Alone Main Control Case](https://www.thingiverse.com/thing:3999751) V3. It is a new design but maintains compatibility with existing display panels.
-
-Head to the **[documentation](https://jon-harper.github.io/OmniBox)** for more information, including a Bill of Materials, list of supported parts, and guides for both printing and assembly.
-
 ## Caution
 
-You are in an **unstable** branch. Changes may be merged in at any time and some files may be untested.
+You are in the `0.9.9-stable` branch. Changes may be merged in at any time, but all parts have been tested for fit.
 
-![banner image](../../raw/main/docs/img/gallery_0.9.8.1/gallery.png)
+If you are looking for a part that is not listed, it may be untested but available in the `0.9.9` branch.
+
+-----
+
+Welcome to the OmniBox repository! OmniBox is a modular, 3D printed electronics case for controlling 3D printers. It is conceptually derived from Steve Burcham's [Stand Alone Main Control Case](https://www.thingiverse.com/thing:3999751) V3.
+
+This project focuses on modularity, accessibility to users, and reusability. The goal of OmniBox is to make your printer's electronics as valuable and re-usable an asset as the printer it controls.
+
+## Documentation & Help
+
+- Head to the **[documentation](https://jon-harper.github.io/OmniBox)** for more information, including a Bill of Materials, list of supported parts, and guides for both printing and assembly.
+- If the documentation site does not answer your question, head to the **[Discussions](https://github.com/jon-harper/OmniBox/discussions)** board.
+- Problems? Have a board that is not supported? Open a ticket on the **[Issues](https://github.com/jon-harper/OmniBox/issues)** page.
+
+## Development & Releases
+
+### Updates
+
+- Follow **[@TheOmniBox](https://twitter.com/TheOmniBox)** on Twitter for updates and discussion.
+- Join in the **[Discussions](https://github.com/jon-harper/OmniBox/discussions)** board here on GitHub.
+
+![banner image](../../raw/main/img/gallery.png)
