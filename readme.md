@@ -1,6 +1,6 @@
 ## Caution
 
-You are in the `0.9.9-beta` branch. Changes may be merged in at any time, but all parts have been tested for fit.
+You are in the `0.9.9-beta` branch. Changes may be merged in at any time, but all parts have been tested for fit. Documentation for *this* branch specifically is located at [https://jon-harper.github.io/OmniBox-docs/](https://jon-harper.github.io/OmniBox-docs/).
 
 If you are looking for a part that is not listed, it may be untested but available in the `0.9.9-unstable` branch.
 
