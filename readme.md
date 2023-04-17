@@ -2,35 +2,34 @@ Welcome to the OmniBox repository! OmniBox is a modular, 3D printed electronics 
 
 This project focuses on modularity, accessibility to users, and reusability. The goal of OmniBox is to make your printer's electronics as valuable and re-usable an asset as the printer it controls.
 
-## Interested in the Beta?
-
-Version 0.9.9 is currently in open beta. See **[Current Beta](#current-beta)** below for details.
-
 ## Documentation & Help
 
-- Head to the **[documentation](https://jon-harper.github.io/OmniBox)** for more information, including a Bill of Materials, list of supported parts, and guides for both printing and assembly.
-- If the documentation site does not answer your question, ask in the **[Discussions](https://github.com/jon-harper/OmniBox/discussions)** board.
-- Problems? Have a board that is not supported? Open a ticket on the **[Issues](https://github.com/jon-harper/OmniBox/issues)** page.
+The **[documentation](https://jon-harper.github.io/OmniBox)** includes a visual tour, a full bill of materials, list of supported parts, and guides for both printing and assembly.
 
-## Development & Releases
+### Beyond the Documentation
 
-### Updates
+- **[OmniBox Discord server](https://discord.gg/nKmJZMhfz5)**
+- **[GitHub Discussions](https://github.com/jon-harper/OmniBox/discussions)**
 
-- Follow **[@TheOmniBox](https://twitter.com/TheOmniBox)** on Twitter for updates and discussion.
-- Join in the **[Discussions](https://github.com/jon-harper/OmniBox/discussions)** board here on GitHub.
+## Releases
 
-### Current Stable Release
+### Current Release
 
-- The current release is version 0.9.8.1, released 2022-09-15.
-- A changelog and download list are available on the **[release page](https://github.com/jon-harper/OmniBox/releases/tag/0.9.8.1)**.
+- The current release is version 0.9.9, released 2022-11-26.
+- **[Changelog][changelog]**
+- **[Documentation][testing_docs]**
 
-### Current Beta
+### In Development
 
-- **[Branch 0.9.9-beta is open](https://github.com/jon-harper/OmniBox/tree/0.9.9-beta)**.
-- **[Documentation for the beta is here](https://jon-harper.github.io/OmniBox/testing)**.
-- Some trays and panels still need fit testing and documentation
-- The Core case is feature frozen and passed two fit tests (i.e., it works).
-- The **[11/16 update](https://github.com/jon-harper/OmniBox/discussions/65)** has more details on what's pending.
-- Release is expected in late November 2022.
+- Untested parts can be found in the **[`unstable`][unstable]** branch\*.
+- **Core case improvements for 0.9.10 are in progress. See the `/Core` folder in the `unstable` branch.**
+- [See this discussion](https://github.com/jon-harper/OmniBox/discussions/103) for more on the 0.9.10 release.
 
-![coming_soon](https://user-images.githubusercontent.com/11852387/202786259-c3b27ae9-53a1-4979-b84f-7b28fd680cff.png)
+\* If you use an untested part, please let us know!
+
+![photobooth picture][gallery_pic]
+
+[changelog]: https://jon-harper.github.io/OmniBox/latest/history/
+[testing_docs]: https://jon-harper.github.io/OmniBox/testing
+[gallery_pic]:  https://jon-harper.github.io/OmniBox/gallery/photobooth6.jpg
+[unstable]: https://github.com/jon-harper/OmniBox/tree/unstable
